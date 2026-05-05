@@ -1,9 +1,9 @@
-A7  - https://wokwi.com/projects/463124781992011777
-A6  - https://wokwi.com/projects/463124016558679041
-A5  - https://wokwi.com/projects/463123397504475137
-A4  - https://wokwi.com/projects/456193209453017089
-A2 -  https://wokwi.com/projects/455555522084677633
 A1 -  https://wokwi.com/projects/463121891917950977
+A2 -  https://wokwi.com/projects/455555522084677633
+A4  - https://wokwi.com/projects/456193209453017089
+A5  - https://wokwi.com/projects/463123397504475137
+A6  - https://wokwi.com/projects/463124016558679041
+A7  - https://wokwi.com/projects/463124781992011777
 A8 -  https://wokwi.com/projects/463125764858096641
 A9 -  https://wokwi.com/projects/463184877592294401
 A10 - https://wokwi.com/projects/463185228787756033
