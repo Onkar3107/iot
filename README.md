@@ -18,6 +18,8 @@ A curated index of my IoT lab exercises built in Wokwi. Each link opens a runnab
 | A11 | https://wokwi.com/projects/463185389032256513 |
 | A12 | https://wokwi.com/projects/463185460471774209 |
 | A13 | https://wokwi.com/projects/463185516086166529 |
+| Ard_master | https://wokwi.com/projects/463201625470353409 |
+| ESP_master | https://wokwi.com/projects/463201773063744513 |
 
 ## Notes
 
