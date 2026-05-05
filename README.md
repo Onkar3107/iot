@@ -1,6 +1,6 @@
 # IoT Labs - Wokwi Projects
 
-A curated index of my IoT lab exercises built in Wokwi. Each link opens a runnable simulation.
+A curated index of IoT lab exercises built in Wokwi. Each link opens a runnable simulation.
 
 ## Quick Links
 
